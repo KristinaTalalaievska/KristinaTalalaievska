@@ -1,5 +1,5 @@
 <h1> 👋 Hi, I'm Kristina! <br/><a href="https://github.com/KristinaTalalaievska ">International CRM and Project Professional expert </a> 
-<h1>  <a href="https://www.linkedin.com/in/talalaievska-kristina/">Cybersecurity Professional</a> </h1>
+<br>  <a href="https://www.linkedin.com/in/talalaievska-kristina/">Cybersecurity Professional</a> </br>
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
