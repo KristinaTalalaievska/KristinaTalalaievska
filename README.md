@@ -3,11 +3,11 @@
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Threats Research for Urban Dynamo</b>
+- <b>Threats Research for Urban Dynamo September 2023</b>
   - [Vulnerability Scanning Open Ports and Recommendation NIST and MITRE ATT&CK](https://github.com/KristinaTalalaievska/Threats-Research-for-Urban-Dynamo)
-- <b>Root Case Study for Premium House Lights</b>
+- <b>Root Case Study for Premium House Lights July 2023</b>
   - [Research of Data Breach artifacts via SIEM, Splunk and Virus Total](https://github.com/KristinaTalalaievska/Data-Breach-at-Premium-House-Lights) <b><i>(Providing recommentdations to C-level management)</b></i>
-- <b>Website for NGO iDemocracy </b>
+- <b>Website for NGO iDemocracy October 2020-March 2022 </b>
   - [Developing website: www.idemocracy.world](http://idemocracy.world)
   - Social media for NGO iDemoccracy:
   - [FB](https://www.facebook.com/iDemocracyUA)
