@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I'm Kristina! <br/><a href="https://github.com/KristinaTalalaievska ">International CRM & Project Professional expert </a> 
+<h1> 👋 Hi, I'm Kristina! <br/><a href="https://github.com/KristinaTalalaievska ">International Operation Expert, CRM & Project Professional </a> 
 <br>  <a href="https://www.linkedin.com/in/talalaievska-kristina/">Cybersecurity Professional</a> </br>
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
