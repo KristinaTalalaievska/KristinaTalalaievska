@@ -1,6 +1,7 @@
-<h1> 👋 Hi, I'm Kristina! <br/><a href="https://github.com/KristinaTalalaievska ">International CRM and Project Professional expert </a>, 
-  <a href="https://www.linkedin.com/in/talalaievska-kristina/">Cybersecurity Professional</a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1> 👋 Hi, I'm Kristina! <br/><a href="https://github.com/KristinaTalalaievska ">International CRM and Project Professional expert </a> 
+<h1>  <a href="https://www.linkedin.com/in/talalaievska-kristina/">Cybersecurity Professional</a> </h1>
+
+  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Threats Research for Urban Dynamo</b>
   - [Vulnerability Scanning Open Ports and Recommendation NIST and MITRE ATT&CK](https://github.com/KristinaTalalaievska/Threats-Research-for-Urban-Dynamo)
