@@ -14,7 +14,7 @@
   - [Youtube](https://www.youtube.com/@idemocracyua7798)
   
 
-<h2>🔭 Certification</h2>
+<h2>🔭 Certifications</h2>
 
 - [Professional Google Cybersecurity Certificate](https://www.credly.com/badges/adf97cfe-f632-48eb-ad82-b7409941abaa/linked_in_profile)
 - [Agile Scrum Full Course](https://skills.yourlearning.ibm.com/certificate/share/45f0c234c9ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICIxMzA0NjgwUkVHIiwKICAib2JqZWN0SWQiIDogIlVSTC1WRlFUU1FDSExTSyIKfQc9743efe41-10)
