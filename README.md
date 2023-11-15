@@ -1,8 +1,5 @@
 <h1> 👋 Hi, I'm Kristina! <br/><a href="https://github.com/KristinaTalalaievska ">International CRM and Project Professional expert </a>, 
-
-
   <a href="https://www.linkedin.com/in/talalaievska-kristina/">Cybersecurity Professional</a>
-
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Threats Research for Urban Dynamo</b>
@@ -18,21 +15,17 @@
 
 <h2>🔭 Certification</h2>
 
-- [How to get into Cybersecurity Starting From Zero](
-- [A Day in the Life of a Cybersecurity Anayst](
-- [How to Create a KeyLogger (C#)](
-- [Ransomware Demonstration (C#)](
-- [Is WGU Legit?](
+- [Professional Google Cybersecurity Certificate](https://www.credly.com/badges/adf97cfe-f632-48eb-ad82-b7409941abaa/linked_in_profile)
+- [Agile Scrum Full Course](https://skills.yourlearning.ibm.com/certificate/share/45f0c234c9ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICIxMzA0NjgwUkVHIiwKICAib2JqZWN0SWQiIDogIlVSTC1WRlFUU1FDSExTSyIKfQc9743efe41-10)
+- [ISC2 Certified in Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/MLP2Y97XHUHV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)
+- [Security Operations Center](https://www.coursera.org/account/accomplishments/certificate/P45CYPYGNA2R)
+- [IBM Cybersecurity Project](https://openbadgepassport.com/app/badge/info/608253)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[linkedin]: https://www.linkedin.com/in/talalaievska-kristina/
+[youtube]:  https://www.youtube.com/@idemocracyua7798
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,7 +41,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 - 👋 Hi, I’m @KristinaTalalaievska
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
