@@ -1,5 +1,5 @@
-<h1> 👋 Hi, I'm Kristina! <br/><a href="https://github.com/KristinaTalalaievska ">AI Security & Cybersecurity Professional | Data Protection | AI Governance | Cyber Risk| Public Speaker & Community Builder | Contributing to IRCC Cybersecurity Initiatives </a> 
-<br>  <a href="https://www.linkedin.com/in/talalaievska-kristina/">  |Cybersecurity Professional  | GRC</a> </br>
+<h1> 👋 Hi, I'm Kristina! <br/><a href="https://github.com/KristinaTalalaievska ">AI Security & Cybersecurity Professional | Data Protection | AI Governance | Cyber Risk| Public Speaker & Community Builder | Contributing to IRCC Cybersecurity Initiatives |Cybersecurity Professional | GRC </a> 
+
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
