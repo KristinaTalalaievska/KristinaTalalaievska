@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kristina!
 
-## <a href="https://github.com/KristinaTalalaievska">AI Security & Cybersecurity Professional | Data Protection | AI Governance | Cyber Risk | Public Speaker & Community Builder | Contributing to IRCC Cybersecurity Initiatives | GRC Specialist | ISO/IEC 27001 and ISO/IEC 27701  </a>
+## <a href="https://github.com/KristinaTalalaievska">AI Security & Cybersecurity Professional | Data Protection | AI Governance | Cyber Risk | Public Speaker & Community Builder | Contributing to AI Cybersecurity Initiatives | GRC Specialist | ISO/IEC 27001 and ISO/IEC 27701  </a>
 
 ---
 
