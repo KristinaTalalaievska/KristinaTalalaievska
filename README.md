@@ -50,7 +50,7 @@ Cybersecurity and AI-focused professional specializing in threat operations, red
 
 ---
 
-### 🛡️ Cybersecurity, Red Team & Risk
+### 🛡️ Cybersecurity & AI Risk
 
 - **Certified Red Team Operations Management (CRTOM)** — Red Team Leaders (Dec 2025)  
   Threat-led red teaming, MITRE ATT&CK mapping, RoE governance, cloud adversary simulation, detection validation
