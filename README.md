@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I'm Kristina! <br/><a href="https://github.com/KristinaTalalaievska ">International Operation Expert, CRM & Project Professional </a> 
+<h1> 👋 Hi, I'm Kristina! <br/><a href="https://github.com/KristinaTalalaievska ">AI Security & Cybersecurity Professional | Data Protection | AI Governance | Cyber Risk| Public Speaker & Community Builder | Contributing to IRCC Cybersecurity Initiatives </a> 
 <br>  <a href="https://www.linkedin.com/in/talalaievska-kristina/">Cybersecurity Professional, Incident Response, GRC</a> </br>
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
